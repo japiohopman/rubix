@@ -1,0 +1,7 @@
+https://nvvpm.com/ met het image logo "C:\Users\japie\Downloads\academyinc_website\client\public\assets\nvvpm.webp"
+https://nvvpo.nl/ met het image logo "C:\Users\japie\Downloads\academyinc_website\client\public\assets\nvvpo.webp"
+https://tandartsregister.nl/ met het logo "C:\Users\japie\Downloads\academyinc_website\client\public\assets\krt.webp"
+https://www.kngf.nl/ met het logo "C:\Users\japie\Downloads\academyinc_website\client\public\assets\fysio.wep"
+https://www.nvda.nl/ met het logo "C:\Users\japie\Downloads\academyinc_website\client\public\assets\nvda.webp"
+https://www.venvn.nl/ met het logo "C:\Users\japie\Downloads\academyinc_website\client\public\assets\venvn.webp"
+https://www.knmg.nl/ met het logo "C:\Users\japie\Downloads\academyinc_website\client\public\assets\knms.webp"
